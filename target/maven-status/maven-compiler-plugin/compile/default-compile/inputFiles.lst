@@ -1,0 +1,9 @@
+/home/reichardt/Projects/ReichaJ/redis-concurrent-read-write-error/src/main/java/com/example/demo/repository/ExampleRepository.java
+/home/reichardt/Projects/ReichaJ/redis-concurrent-read-write-error/src/main/java/com/example/demo/conifg/TemplateConfig.java
+/home/reichardt/Projects/ReichaJ/redis-concurrent-read-write-error/src/main/java/com/example/demo/repository/TemplateExampleRepository.java
+/home/reichardt/Projects/ReichaJ/redis-concurrent-read-write-error/src/main/java/com/example/demo/repository/BaseExampleRepository.java
+/home/reichardt/Projects/ReichaJ/redis-concurrent-read-write-error/src/main/java/com/example/demo/controller/TemplateController.java
+/home/reichardt/Projects/ReichaJ/redis-concurrent-read-write-error/src/main/java/com/example/demo/model/Example.java
+/home/reichardt/Projects/ReichaJ/redis-concurrent-read-write-error/src/main/java/com/example/demo/controller/RepositoryController.java
+/home/reichardt/Projects/ReichaJ/redis-concurrent-read-write-error/src/main/java/com/example/demo/controller/BaseController.java
+/home/reichardt/Projects/ReichaJ/redis-concurrent-read-write-error/src/main/java/com/example/demo/DemoApplication.java

@@ -1,0 +1,9 @@
+com/example/demo/DemoApplication.class
+com/example/demo/repository/ExampleRepository.class
+com/example/demo/repository/TemplateExampleRepository.class
+com/example/demo/repository/BaseExampleRepository.class
+com/example/demo/controller/TemplateController.class
+com/example/demo/conifg/TemplateConfig.class
+com/example/demo/controller/BaseController.class
+com/example/demo/controller/RepositoryController.class
+com/example/demo/model/Example.class
